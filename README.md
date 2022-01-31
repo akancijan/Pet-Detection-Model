@@ -1,5 +1,6 @@
 # Pet-Detection-Model
 Detection of animals on pictures by using Faster-rcnn
+TBD more indepth Readme
 
 # Dataset
 Used already labeled images of cats and dogs to train the model
